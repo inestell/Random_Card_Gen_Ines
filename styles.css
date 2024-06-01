@@ -1,0 +1,47 @@
+body {
+    background-color: green;
+}
+
+.card {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.476);
+    padding: 5px;
+
+}
+
+.top-row {
+    margin-top: 10px;
+}
+
+.number {
+    display: flex;
+    justify-content: center;
+    height: 260px;
+    
+}
+
+.bottom-row {
+    display: flex;
+    justify-content: flex-end;
+    height: 60px;
+}
+
+h1 {
+    font-size: 120px;
+    margin: auto;
+}
+
+h2 {
+    font-size: 50px;
+    margin: 0;
+}
+
+
+
+.red-suits {
+    color: red;
+}
